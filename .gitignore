@@ -1,3 +1,9 @@
 
 *.zip
 target/_SF_De-NIST.HASH
+target/signatures.txt
+target/SF_De-NIST.HASH
+target/NSRLProd.txt
+target/NSRLOS.txt
+target/NSRLMfg.txt
+target/NSRLFile.txt
